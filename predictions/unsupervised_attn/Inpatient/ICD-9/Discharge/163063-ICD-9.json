@@ -1,0 +1,166 @@
+{
+  "hadm_id": 163063,
+  "notes": [
+    {
+      "note_id": 36834,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 11163,
+          "end": 11171,
+          "code": "200.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 20038,
+          "end": 20046,
+          "code": "200.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 22010,
+          "end": 22018,
+          "code": "200.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 515,
+          "end": 518,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 1555,
+          "end": 1572,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 14832,
+          "end": 14834,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 21913,
+          "end": 21924,
+          "code": "284.19",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 21936,
+          "end": 21952,
+          "code": "287.5",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 21913,
+          "end": 21924,
+          "code": "288.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 14389,
+          "end": 14396,
+          "code": "289.59",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 4184,
+          "end": 4198,
+          "code": "348.30",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 19278,
+          "end": 19283,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 19509,
+          "end": 19519,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 21980,
+          "end": 21985,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 9531,
+          "end": 9538,
+          "code": "793.11",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 1880,
+          "end": 1885,
+          "code": "V10.52",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 2288,
+          "end": 2299,
+          "code": "V10.52",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 2304,
+          "end": 2309,
+          "code": "V10.52",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 2713,
+          "end": 2718,
+          "code": "V10.52",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 596,
+          "end": 607,
+          "code": "V45.73",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 2288,
+          "end": 2299,
+          "code": "V45.73",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 14911,
+          "end": 14922,
+          "code": "V45.73",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        }
+      ]
+    }
+  ]
+}

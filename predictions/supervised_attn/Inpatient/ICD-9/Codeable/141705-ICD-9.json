@@ -1,0 +1,26 @@
+{
+  "hadm_id": 141705,
+  "notes": [
+    {
+      "note_id": 497834,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 2630,
+          "end": 2638,
+          "code": "346.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 10028,
+          "end": 10036,
+          "code": "346.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    }
+  ]
+}

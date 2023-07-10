@@ -1,0 +1,45 @@
+{
+  "hadm_id": 163449,
+  "notes": [
+    {
+      "note_id": 582741,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": []
+    },
+    {
+      "note_id": 36735,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 2411,
+          "end": 2423,
+          "code": "512.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 2684,
+          "end": 2696,
+          "code": "512.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 2144,
+          "end": 2154,
+          "code": "958.92",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1085902,
+      "category": "Radiology",
+      "description": "CTA CHEST W&W/O C&RECONS, NON-CORONARY",
+      "annotations": []
+    }
+  ]
+}

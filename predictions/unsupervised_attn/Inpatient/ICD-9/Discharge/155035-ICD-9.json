@@ -1,0 +1,96 @@
+{
+  "hadm_id": 155035,
+  "notes": [
+    {
+      "note_id": 54862,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 436,
+          "end": 455,
+          "code": "294.10",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 2782,
+          "end": 2791,
+          "code": "294.10",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 3396,
+          "end": 3406,
+          "code": "294.10",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 436,
+          "end": 446,
+          "code": "331.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 2782,
+          "end": 2791,
+          "code": "331.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 3396,
+          "end": 3406,
+          "code": "331.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 1203,
+          "end": 1207,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 3432,
+          "end": 3436,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 2857,
+          "end": 2866,
+          "code": "934.8",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 4100,
+          "end": 4110,
+          "code": "934.8",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 457,
+          "end": 466,
+          "code": "V10.21",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 2764,
+          "end": 2773,
+          "code": "V10.21",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "hadm_id": 184784,
+  "notes": [
+    {
+      "note_id": 38851,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 540,
+          "end": 554,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 2148,
+          "end": 2157,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 3165,
+          "end": 3176,
+          "code": "285.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 400,
+          "end": 404,
+          "code": "305.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 1227,
+          "end": 1237,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 415,
+          "end": 447,
+          "code": "E816.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        }
+      ]
+    }
+  ]
+}

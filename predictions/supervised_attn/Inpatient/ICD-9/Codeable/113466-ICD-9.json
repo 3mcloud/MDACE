@@ -1,0 +1,19 @@
+{
+  "hadm_id": 113466,
+  "notes": [
+    {
+      "note_id": 691198,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 3843,
+          "end": 3849,
+          "code": "E881.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    }
+  ]
+}

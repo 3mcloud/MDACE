@@ -1,0 +1,26 @@
+{
+  "hadm_id": 189408,
+  "notes": [
+    {
+      "note_id": 40745,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 724,
+          "end": 746,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 560,
+          "end": 566,
+          "code": "E812.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    }
+  ]
+}

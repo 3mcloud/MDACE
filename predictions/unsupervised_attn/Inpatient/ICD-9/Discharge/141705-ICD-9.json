@@ -1,0 +1,117 @@
+{
+  "hadm_id": 141705,
+  "notes": [
+    {
+      "note_id": 34877,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 9204,
+          "end": 9211,
+          "code": "112.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 9251,
+          "end": 9258,
+          "code": "112.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 7124,
+          "end": 7135,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 7371,
+          "end": 7382,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 7709,
+          "end": 7720,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 11280,
+          "end": 11291,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 7151,
+          "end": 7160,
+          "code": "487.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 7652,
+          "end": 7661,
+          "code": "487.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 11270,
+          "end": 11279,
+          "code": "487.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 11479,
+          "end": 11488,
+          "code": "487.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 460,
+          "end": 466,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 2388,
+          "end": 2394,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 57952,
+      "category": "Discharge summary",
+      "description": "Addendum",
+      "annotations": [
+        {
+          "begin": 388,
+          "end": 394,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 410,
+          "end": 427,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        }
+      ]
+    }
+  ]
+}

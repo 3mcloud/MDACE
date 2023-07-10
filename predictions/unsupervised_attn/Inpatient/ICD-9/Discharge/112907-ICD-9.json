@@ -1,0 +1,89 @@
+{
+  "hadm_id": 112907,
+  "notes": [
+    {
+      "note_id": 42388,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 1604,
+          "end": 1616,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 334,
+          "end": 345,
+          "code": "45.23",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 5573,
+          "end": 5584,
+          "code": "45.23",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 7708,
+          "end": 7713,
+          "code": "560.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 3813,
+          "end": 3827,
+          "code": "562.10",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 5573,
+          "end": 5584,
+          "code": "562.10",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 10450,
+          "end": 10466,
+          "code": "578.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 10524,
+          "end": 10532,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 10543,
+          "end": 10556,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 6533,
+          "end": 6542,
+          "code": "99.05",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 10543,
+          "end": 10556,
+          "code": "99.05",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        }
+      ]
+    }
+  ]
+}

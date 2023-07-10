@@ -1,0 +1,109 @@
+{
+  "hadm_id": 162776,
+  "notes": [
+    {
+      "note_id": 54476,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 3275,
+          "end": 3282,
+          "code": "041.6",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5225,
+          "end": 5242,
+          "code": "041.6",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1340,
+          "end": 1354,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 3837,
+          "end": 3850,
+          "code": "276.51",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1271,
+          "end": 1280,
+          "code": "294.10",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1271,
+          "end": 1280,
+          "code": "331.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1291,
+          "end": 1294,
+          "code": "403.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1336,
+          "end": 1339,
+          "code": "403.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1291,
+          "end": 1294,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5198,
+          "end": 5201,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5206,
+          "end": 5211,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7565,
+          "end": 7568,
+          "code": "599.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1374,
+          "end": 1388,
+          "code": "715.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 611922,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": []
+    }
+  ]
+}

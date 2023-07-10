@@ -1,0 +1,40 @@
+{
+  "hadm_id": 171431,
+  "notes": [
+    {
+      "note_id": 595338,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 232,
+          "end": 246,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6206,
+          "end": 6220,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 595518,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 4155,
+          "end": 4166,
+          "code": "518.81",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    }
+  ]
+}

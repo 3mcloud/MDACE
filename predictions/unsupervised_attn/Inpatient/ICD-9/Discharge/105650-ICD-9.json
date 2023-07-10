@@ -1,0 +1,26 @@
+{
+  "hadm_id": 105650,
+  "notes": [
+    {
+      "note_id": 35602,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 7343,
+          "end": 7351,
+          "code": "852.26",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 252,
+          "end": 264,
+          "code": "E884.2",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        }
+      ]
+    }
+  ]
+}

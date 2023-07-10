@@ -1,0 +1,47 @@
+{
+  "hadm_id": 172655,
+  "notes": [
+    {
+      "note_id": 650376,
+      "category": "Physician",
+      "description": "Physician Attending Admission Note - MICU",
+      "annotations": [
+        {
+          "begin": 714,
+          "end": 726,
+          "code": "562.12",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4538,
+          "end": 4552,
+          "code": "562.12",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5267,
+          "end": 5270,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 650383,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 541,
+          "end": 547,
+          "code": "553.3",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    }
+  ]
+}

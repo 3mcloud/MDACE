@@ -1,0 +1,33 @@
+{
+  "hadm_id": 151312,
+  "notes": [
+    {
+      "note_id": 35302,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 285,
+          "end": 298,
+          "code": "E823.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 1276,
+          "end": 1285,
+          "code": "E823.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 1305,
+          "end": 1310,
+          "code": "E823.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        }
+      ]
+    }
+  ]
+}

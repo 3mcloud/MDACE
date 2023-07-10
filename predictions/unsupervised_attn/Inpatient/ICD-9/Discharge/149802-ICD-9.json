@@ -1,0 +1,145 @@
+{
+  "hadm_id": 149802,
+  "notes": [
+    {
+      "note_id": 37218,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 447,
+          "end": 457,
+          "code": "157.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 13000,
+          "end": 13010,
+          "code": "157.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 1218,
+          "end": 1220,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 9831,
+          "end": 9839,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 1222,
+          "end": 1225,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 7657,
+          "end": 7667,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 8469,
+          "end": 8479,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 13077,
+          "end": 13087,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 7691,
+          "end": 7700,
+          "code": "96.04",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 8503,
+          "end": 8512,
+          "code": "96.04",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 7691,
+          "end": 7700,
+          "code": "96.71",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 8503,
+          "end": 8512,
+          "code": "96.71",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 13130,
+          "end": 13135,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 13140,
+          "end": 13148,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 13159,
+          "end": 13172,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 9219,
+          "end": 9222,
+          "code": "99.15",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 9289,
+          "end": 9292,
+          "code": "99.15",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 9847,
+          "end": 9850,
+          "code": "99.15",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        },
+        {
+          "begin": 10097,
+          "end": 10100,
+          "code": "99.15",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-unsupervised-attention"
+        }
+      ]
+    }
+  ]
+}

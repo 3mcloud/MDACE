@@ -1,0 +1,46 @@
+{
+  "hadm_id": 127015,
+  "notes": [
+    {
+      "note_id": 53255,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 584,
+          "end": 598,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 3894,
+          "end": 3908,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 599,
+          "end": 611,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 3805,
+          "end": 3828,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 688805,
+      "category": "Physician",
+      "description": "ICU Note - CVI",
+      "annotations": []
+    }
+  ]
+}
