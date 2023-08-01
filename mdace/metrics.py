@@ -66,8 +66,8 @@ def _count_unique_errors(
     predicted: Admission,
     key: Callable[[Note, Annotation], Hashable],
 ) -> ErrorRate:
-    actual_set = set(key(*_) for _ in actual)
-    predicted_set = set(key(*_) for _ in predicted)
+    actual_set = set(key(note, annotation) for note, annotation in actual)
+    predicted_set = set(key(note, annotation) for note, annotation in predicted)
 
     tp = actual_set & predicted_set
     fp = predicted_set - actual_set
