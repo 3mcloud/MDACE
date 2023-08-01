@@ -76,7 +76,23 @@ class Admission:
 
     comment: str = None
 
-    def _has_text(self):
+    def __iter__(self) -> Iterator[Tuple[Note, Annotation]]:
+        for note in self.notes:
+            for annotation in note.annotations:
+                # set annotation.span.covered_text if we have note.text
+                if note.text and not annotation.span.covered_text:
+                    annotation = dataclasses.replace(
+                        annotation,
+                        span=dataclasses.replace(
+                            annotation.span,
+                            covered_text=note.text[
+                                annotation.span.begin : annotation.span.end
+                            ],
+                        ),
+                    )
+                yield note, annotation
+
+    def _has_text(self) -> bool:
         """Check that all notes have text"""
         return not any(note.text is None for note in self.notes)
 
@@ -124,17 +140,5 @@ class MDACEData:
     def __iter__(self) -> Iterator[Tuple[Admission, Note, Annotation]]:
         """Iterate over Annotations; include information from Admission and Note"""
         for admission in self.admissions:
-            for note in admission.notes:
-                for annotation in note.annotations:
-                    # set annotation.span.covered_text if we have note.text
-                    if note.text and not annotation.span.covered_text:
-                        annotation = dataclasses.replace(
-                            annotation,
-                            span=dataclasses.replace(
-                                annotation.span,
-                                covered_text=note.text[
-                                    annotation.span.begin : annotation.span.end
-                                ],
-                            ),
-                        )
-                    yield admission, note, annotation
+            for note, annotation in admission:
+                yield admission, note, annotation
