@@ -3,8 +3,8 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import List, Callable, Hashable
 
-from mdace.data import Annotation, Span
-from mdace.text import tokenize_annotations
+from mdace.data import Annotation, Span, Admission, Note
+from mdace.text import tokenize_admission
 
 _logger = logging.getLogger(Path(__file__).name)
 
@@ -62,12 +62,12 @@ class ErrorRate:
 
 
 def _count_unique_errors(
-    actual: List[Annotation],
-    predicted: List[Annotation],
-    key: Callable[[Annotation], Hashable],
+    actual: Admission,
+    predicted: Admission,
+    key: Callable[[Note, Annotation], Hashable],
 ) -> ErrorRate:
-    actual_set = set(key(_) for _ in actual)
-    predicted_set = set(key(_) for _ in predicted)
+    actual_set = set(key(note, annotation) for note, annotation in actual)
+    predicted_set = set(key(note, annotation) for note, annotation in predicted)
 
     tp = actual_set & predicted_set
     fp = predicted_set - actual_set
@@ -79,11 +79,9 @@ def _count_unique_errors(
     )
 
 
-def exact_match_error(
-    actual: List[Annotation], predicted: List[Annotation]
-) -> ErrorRate:
-    def key_fn(anno: Annotation) -> Hashable:
-        return anno
+def exact_match_error(actual: Admission, predicted: Admission) -> ErrorRate:
+    def key_fn(note: Note, anno: Annotation) -> Hashable:
+        return note.note_id, anno
 
     return _count_unique_errors(actual, predicted, key_fn)
 
@@ -92,33 +90,31 @@ def normalize(text: str) -> str:
     return text.lower()
 
 
-def position_independent_error(
-    actual: List[Annotation], predicted: List[Annotation]
-) -> ErrorRate:
-    def key_fn(anno: Annotation) -> Hashable:
+def position_independent_error(actual: Admission, predicted: Admission) -> ErrorRate:
+    def key_fn(note: Note, anno: Annotation) -> Hashable:
         return normalize(anno.span.covered_text), anno.billing_code
 
     return _count_unique_errors(actual, predicted, key_fn)
 
 
 def token_exact_match_error(
-    actual: List[Annotation],
-    predicted: List[Annotation],
+    actual: Admission,
+    predicted: Admission,
     tokenize: Callable[[str], List[Span]],
 ) -> ErrorRate:
-    a_tokenized = tokenize_annotations(actual, tokenize)
-    p_tokenized = tokenize_annotations(predicted, tokenize)
+    a_tokenized = tokenize_admission(actual, tokenize)
+    p_tokenized = tokenize_admission(predicted, tokenize)
 
     return exact_match_error(a_tokenized, p_tokenized)
 
 
 def token_position_independent_error(
-    actual: List[Annotation],
-    predicted: List[Annotation],
+    actual: Admission,
+    predicted: Admission,
     tokenize: Callable[[str], List[Span]],
 ) -> ErrorRate:
-    a_tokenized = tokenize_annotations(actual, tokenize)
-    p_tokenized = tokenize_annotations(predicted, tokenize)
+    a_tokenized = tokenize_admission(actual, tokenize)
+    p_tokenized = tokenize_admission(predicted, tokenize)
 
     return position_independent_error(a_tokenized, p_tokenized)
 
@@ -135,7 +131,7 @@ class AllErrorRates(object):
             token_position_independent=ErrorRate(),
         )
 
-    def observe(self, actual: List[Annotation], predicted: List[Annotation]):
+    def observe(self, actual: Admission, predicted: Admission):
         self.error_rates["span_exact_match"] += exact_match_error(actual, predicted)
         self.error_rates["span_position_independent"] += position_independent_error(
             actual, predicted

@@ -1,30 +1,15 @@
 import argparse
 import dataclasses
-import itertools
 import logging
 from pathlib import Path
-from typing import List, Dict, Set, Iterable, Tuple
+from typing import List, Dict, Set
 
 from mdace.cleanup import trim_annotations, merge_adjacent_annotations
-from mdace.data import MDACEData, Annotation, Admission, Note
+from mdace.data import MDACEData, Admission
 from mdace.metrics import AllErrorRates
 from mdace.text import tokenize
 
 logger = logging.getLogger(Path(__file__).name)
-
-
-def _note_id_key(tpl: Tuple[Admission, Note, Annotation]) -> int:
-    return tpl[1].note_id
-
-
-def group_by_note_id(
-    dataset: Iterable[Tuple[Admission, Note, Annotation]]
-) -> Dict[int, List[Annotation]]:
-    ordered = sorted(dataset, key=_note_id_key)
-    return {
-        note_id: [anno for _, _, anno in group]
-        for note_id, group in itertools.groupby(ordered, key=_note_id_key)
-    }
 
 
 def filter_admissions_by_id(dataset: MDACEData, hadm_ids: Set[int]) -> MDACEData:
@@ -66,7 +51,7 @@ def load_grouped_predictions(
     target_categories: List[str],
     merge_adjacent: bool,
     trim_annos: bool,
-) -> Dict[int, List[Annotation]]:
+) -> Dict[int, Admission]:
     """Load dataset, do optional preprocessing/filtering and group evidence annotations by note_id"""
     dataset = MDACEData.from_dir(dataset_dir, require_text=True)
 
@@ -81,7 +66,7 @@ def load_grouped_predictions(
     if trim_annos:
         dataset = trim_annotations(dataset)
 
-    return group_by_note_id(dataset)
+    return {adm.hadm_id: adm for adm in dataset.admissions}
 
 
 def main(args: argparse.Namespace):
@@ -102,11 +87,11 @@ def main(args: argparse.Namespace):
 
     error_rates = AllErrorRates(tokenize_fn=tokenize)
 
-    for note_id, actual_evidence in gold.items():
-        predicted_evidence = predictions.get(note_id, [])
+    for hadm_id, actual_evidence in gold.items():
+        predicted_evidence = predictions.get(hadm_id, [])
         if not predicted_evidence and actual_evidence:
             logger.debug(
-                f"No evidence predicted for note_id={note_id} [{len(actual_evidence):,} actual]"
+                f"No evidence predicted for admission={hadm_id} [{len(actual_evidence):,} actual]"
             )
 
         error_rates.observe(actual_evidence, predicted_evidence)

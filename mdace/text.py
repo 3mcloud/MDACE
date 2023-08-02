@@ -2,7 +2,7 @@ import dataclasses
 import re
 from typing import List, Callable
 
-from mdace.data import Span, Annotation
+from mdace.data import Span, Annotation, Admission
 
 TOKEN_PATTERN = re.compile(r"\w+", flags=re.UNICODE | re.MULTILINE | re.DOTALL)
 
@@ -53,3 +53,17 @@ def tokenize_annotations(
     for a in annotations:
         flat.extend(tokenize_annotation(a, tokenize_fn))
     return flat
+
+
+def tokenize_admission(
+    admission: Admission, tokenize_fn: Callable[[str], List[Span]]
+) -> Admission:
+    return dataclasses.replace(
+        admission,
+        notes=[
+            dataclasses.replace(
+                note, annotations=tokenize_annotations(note.annotations, tokenize_fn)
+            )
+            for note in admission.notes
+        ],
+    )
