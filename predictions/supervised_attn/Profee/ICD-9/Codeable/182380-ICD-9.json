@@ -2,234 +2,17 @@
   "hadm_id": 182380,
   "notes": [
     {
-      "note_id": 478501,
-      "category": "Physician",
-      "description": "Intensivist Note",
-      "annotations": [
-        {
-          "begin": 268,
-          "end": 270,
-          "code": "250.00",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 218,
-          "end": 230,
-          "code": "272.4",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 274,
-          "end": 280,
-          "code": "285.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 232,
-          "end": 238,
-          "code": "493.90",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        }
-      ]
-    },
-    {
-      "note_id": 478006,
-      "category": "Physician",
-      "description": "Intensivist Note",
-      "annotations": [
-        {
-          "begin": 206,
-          "end": 208,
-          "code": "250.00",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 156,
-          "end": 168,
-          "code": "272.4",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 212,
-          "end": 218,
-          "code": "285.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4883,
-          "end": 4890,
-          "code": "300.00",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 170,
-          "end": 176,
-          "code": "493.90",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        }
-      ]
-    },
-    {
-      "note_id": 478450,
-      "category": "Physician",
-      "description": "Intensivist Note",
-      "annotations": [
-        {
-          "begin": 268,
-          "end": 270,
-          "code": "250.00",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 218,
-          "end": 230,
-          "code": "272.4",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 274,
-          "end": 280,
-          "code": "285.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 232,
-          "end": 238,
-          "code": "493.90",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        }
-      ]
-    },
-    {
-      "note_id": 477946,
-      "category": "Physician",
-      "description": "Intensivist Note",
-      "annotations": [
-        {
-          "begin": 226,
-          "end": 228,
-          "code": "250.00",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 176,
-          "end": 188,
-          "code": "272.4",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4595,
-          "end": 4615,
-          "code": "427.69",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4622,
-          "end": 4625,
-          "code": "427.69",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 190,
-          "end": 196,
-          "code": "493.90",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        }
-      ]
-    },
-    {
-      "note_id": 478274,
-      "category": "Physician",
-      "description": "Intensivist Note",
-      "annotations": [
-        {
-          "begin": 252,
-          "end": 254,
-          "code": "250.00",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 202,
-          "end": 214,
-          "code": "272.4",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 258,
-          "end": 264,
-          "code": "285.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4849,
-          "end": 4856,
-          "code": "300.00",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4486,
-          "end": 4506,
-          "code": "427.69",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4513,
-          "end": 4516,
-          "code": "427.69",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 216,
-          "end": 222,
-          "code": "493.90",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4332,
-          "end": 4337,
-          "code": "780.60",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4366,
-          "end": 4371,
-          "code": "780.60",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        }
-      ]
-    },
-    {
       "note_id": 36738,
       "category": "Discharge summary",
       "description": "Report",
       "annotations": [
+        {
+          "begin": 5802,
+          "end": 5808,
+          "code": "238.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
         {
           "begin": 686,
           "end": 688,
@@ -241,6 +24,20 @@
           "begin": 636,
           "end": 648,
           "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4627,
+          "end": 4638,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 692,
+          "end": 698,
+          "code": "285.29",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -266,23 +63,16 @@
           "type": "ECAN-supervised-attention"
         },
         {
+          "begin": 669,
+          "end": 672,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
           "begin": 5754,
           "end": 5765,
           "code": "721.3",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 5754,
-          "end": 5765,
-          "code": "722.52",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 5770,
-          "end": 5774,
-          "code": "722.52",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -295,8 +85,190 @@
         },
         {
           "begin": 476,
-          "end": 479,
+          "end": 484,
           "code": "729.5",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7757,
+          "end": 7762,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 362,
+          "end": 368,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 477734,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 184,
+          "end": 198,
+          "code": "238.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 279,
+          "end": 281,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 229,
+          "end": 241,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 176,
+          "end": 182,
+          "code": "285.29",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 285,
+          "end": 291,
+          "code": "285.29",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 176,
+          "end": 182,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5862,
+          "end": 5865,
+          "code": "427.69",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 243,
+          "end": 249,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 310,
+          "end": 312,
+          "code": "724.2",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 329,
+          "end": 335,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6057,
+          "end": 6063,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 477772,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 184,
+          "end": 198,
+          "code": "238.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 279,
+          "end": 281,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 229,
+          "end": 241,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 176,
+          "end": 182,
+          "code": "285.29",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 285,
+          "end": 291,
+          "code": "285.29",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 176,
+          "end": 182,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5862,
+          "end": 5865,
+          "code": "427.69",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 243,
+          "end": 249,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 310,
+          "end": 312,
+          "code": "724.2",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 329,
+          "end": 335,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6057,
+          "end": 6063,
+          "code": "V45.4",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         }
@@ -315,23 +287,16 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 302,
-          "end": 314,
-          "code": "272.4",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 358,
           "end": 364,
-          "code": "285.9",
+          "code": "285.29",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 4593,
-          "end": 4599,
-          "code": "285.9",
+          "begin": 4382,
+          "end": 4385,
+          "code": "427.69",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -347,6 +312,559 @@
           "end": 380,
           "code": "724.2",
           "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 397,
+          "end": 403,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 478274,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 252,
+          "end": 254,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 258,
+          "end": 264,
+          "code": "285.29",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4849,
+          "end": 4856,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4513,
+          "end": 4516,
+          "code": "427.69",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 216,
+          "end": 222,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 283,
+          "end": 285,
+          "code": "724.2",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4332,
+          "end": 4337,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4366,
+          "end": 4371,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 178,
+          "end": 184,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 302,
+          "end": 308,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4696,
+          "end": 4702,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 477530,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 352,
+          "end": 354,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 358,
+          "end": 364,
+          "code": "285.29",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 316,
+          "end": 322,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 378,
+          "end": 380,
+          "code": "724.2",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 397,
+          "end": 403,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 478257,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 252,
+          "end": 254,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 258,
+          "end": 264,
+          "code": "285.29",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4849,
+          "end": 4856,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4542,
+          "end": 4545,
+          "code": "427.69",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 216,
+          "end": 222,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 283,
+          "end": 285,
+          "code": "724.2",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4361,
+          "end": 4366,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4395,
+          "end": 4400,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 178,
+          "end": 184,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 302,
+          "end": 308,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4725,
+          "end": 4731,
+          "code": "V45.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 478501,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 218,
+          "end": 230,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 274,
+          "end": 280,
+          "code": "285.29",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5118,
+          "end": 5125,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4790,
+          "end": 4793,
+          "code": "427.69",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 232,
+          "end": 238,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4606,
+          "end": 4611,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4643,
+          "end": 4648,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 478006,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 156,
+          "end": 168,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4883,
+          "end": 4890,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4601,
+          "end": 4604,
+          "code": "427.69",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 170,
+          "end": 176,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 478450,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 218,
+          "end": 230,
+          "code": "272.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 274,
+          "end": 280,
+          "code": "285.29",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5105,
+          "end": 5112,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4790,
+          "end": 4793,
+          "code": "427.69",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 232,
+          "end": 238,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4606,
+          "end": 4611,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4643,
+          "end": 4648,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 477946,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 4904,
+          "end": 4911,
+          "code": "300.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4622,
+          "end": 4625,
+          "code": "427.69",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1093864,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 731,
+          "end": 738,
+          "code": "511.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1038,
+          "end": 1045,
+          "code": "511.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 672,
+          "end": 683,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1009,
+          "end": 1020,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 25,
+          "end": 43,
+          "code": "71045",
+          "code_system": "CPT",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 331,
+          "end": 336,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 575,
+          "end": 580,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1093483,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 1133,
+          "end": 1140,
+          "code": "511.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 26,
+          "end": 36,
+          "code": "71045",
+          "code_system": "CPT",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1093615,
+      "category": "Radiology",
+      "description": "CT PELVIS W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 1537,
+          "end": 1548,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4474,
+          "end": 4485,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 2177,
+          "end": 2191,
+          "code": "562.10",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1093583,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 979,
+          "end": 990,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 25,
+          "end": 43,
+          "code": "71045",
+          "code_system": "CPT",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1093356,
+      "category": "Radiology",
+      "description": "O L-SPINE (AP & LAT) IN O.R.",
+      "annotations": [
+        {
+          "begin": 33,
+          "end": 35,
+          "code": "71045",
+          "code_system": "CPT",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1092919,
+      "category": "Radiology",
+      "description": "O L-SPINE (AP & LAT) IN O.R.",
+      "annotations": [
+        {
+          "begin": 33,
+          "end": 35,
+          "code": "71045",
+          "code_system": "CPT",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1093408,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 24,
+          "end": 34,
+          "code": "71045",
+          "code_system": "CPT",
           "type": "ECAN-supervised-attention"
         }
       ]
