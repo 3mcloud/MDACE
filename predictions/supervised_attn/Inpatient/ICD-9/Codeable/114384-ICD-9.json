@@ -22,14 +22,14 @@
         },
         {
           "begin": 859,
-          "end": 872,
+          "end": 867,
           "code": "250.00",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
           "begin": 13252,
-          "end": 13265,
+          "end": 13260,
           "code": "250.00",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -63,13 +63,6 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 12999,
-          "end": 13005,
-          "code": "35.23",
-          "code_system": "ICD-9-PCS",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 734,
           "end": 746,
           "code": "401.9",
@@ -86,13 +79,6 @@
         {
           "begin": 769,
           "end": 775,
-          "code": "424.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 9429,
-          "end": 9435,
           "code": "424.0",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -119,22 +105,22 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 3820,
-          "end": 3823,
-          "code": "88.72",
-          "code_system": "ICD-9-PCS",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4048,
-          "end": 4051,
-          "code": "88.72",
-          "code_system": "ICD-9-PCS",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 6388,
           "end": 6391,
+          "code": "88.72",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 14325,
+          "end": 14332,
+          "code": "88.72",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 14925,
+          "end": 14932,
           "code": "88.72",
           "code_system": "ICD-9-PCS",
           "type": "ECAN-supervised-attention"

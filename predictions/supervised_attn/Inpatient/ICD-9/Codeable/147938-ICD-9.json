@@ -21,30 +21,9 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 14105,
-          "end": 14112,
+          "begin": 9450,
+          "end": 9454,
           "code": "305.01",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 1677,
-          "end": 1681,
-          "code": "305.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 1690,
-          "end": 1697,
-          "code": "305.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 10135,
-          "end": 10142,
-          "code": "305.1",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -56,16 +35,16 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 11830,
-          "end": 11837,
+          "begin": 11284,
+          "end": 11292,
           "code": "305.1",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 7674,
-          "end": 7689,
-          "code": "348.5",
+          "begin": 11830,
+          "end": 11837,
+          "code": "305.1",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -105,13 +84,6 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 528,
-          "end": 535,
-          "code": "780.39",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 7285,
           "end": 7292,
           "code": "780.39",
@@ -119,15 +91,29 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 8471,
-          "end": 8478,
-          "code": "780.39",
-          "code_system": "ICD-9-CM",
+          "begin": 309,
+          "end": 317,
+          "code": "88.41",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1236681,
+      "category": "Radiology",
+      "description": "SEL CATH 3RD ORDER THOR",
+      "annotations": [
+        {
+          "begin": 892,
+          "end": 900,
+          "code": "88.41",
+          "code_system": "ICD-9-PCS",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 309,
-          "end": 327,
+          "begin": 1020,
+          "end": 1028,
           "code": "88.41",
           "code_system": "ICD-9-PCS",
           "type": "ECAN-supervised-attention"

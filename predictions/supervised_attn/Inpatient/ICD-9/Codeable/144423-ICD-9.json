@@ -21,6 +21,41 @@
           "type": "ECAN-supervised-attention"
         },
         {
+          "begin": 1572,
+          "end": 1580,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 536,
+          "end": 542,
+          "code": "823.01",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7886,
+          "end": 7893,
+          "code": "823.01",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 15560,
+          "end": 15566,
+          "code": "823.01",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 8011,
+          "end": 8021,
+          "code": "825.25",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
           "begin": 11402,
           "end": 11412,
           "code": "825.25",
@@ -63,8 +98,8 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 1658,
-          "end": 1664,
+          "begin": 1629,
+          "end": 1635,
           "code": "V10.01",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"

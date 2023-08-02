@@ -1,4 +1,185 @@
 {
   "hadm_id": 118770,
-  "notes": []
+  "notes": [
+    {
+      "note_id": 3457,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 14152,
+          "end": 14163,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 14414,
+          "end": 14430,
+          "code": "287.5",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 10694,
+          "end": 10698,
+          "code": "34.04",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 13437,
+          "end": 13440,
+          "code": "584.5",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 13639,
+          "end": 13652,
+          "code": "790.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 2179,
+          "end": 2189,
+          "code": "V10.47",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 435376,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 8399,
+          "end": 8415,
+          "code": "287.5",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 346,
+          "end": 350,
+          "code": "34.04",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 8190,
+          "end": 8193,
+          "code": "584.5",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 434386,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 6533,
+          "end": 6549,
+          "code": "287.5",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 435572,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 6453,
+          "end": 6469,
+          "code": "287.5",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 436012,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 7321,
+          "end": 7337,
+          "code": "287.5",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 434134,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 6735,
+          "end": 6751,
+          "code": "287.5",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 434774,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 6364,
+          "end": 6380,
+          "code": "287.5",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6726,
+          "end": 6739,
+          "code": "790.4",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1055968,
+      "category": "Radiology",
+      "description": "CT CHEST W/CONTRAST",
+      "annotations": [
+        {
+          "begin": 1574,
+          "end": 1584,
+          "code": "V10.47",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 433504,
+      "category": "Physician",
+      "description": "Physician Attending Admission Note - MICU",
+      "annotations": []
+    },
+    {
+      "note_id": 433799,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": []
+    }
+  ]
 }

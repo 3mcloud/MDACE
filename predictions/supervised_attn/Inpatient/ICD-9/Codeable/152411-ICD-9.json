@@ -7,20 +7,26 @@
       "description": "Physician Resident Admission Note",
       "annotations": [
         {
-          "begin": 7240,
-          "end": 7245,
-          "code": "584.9",
+          "begin": 2506,
+          "end": 2520,
+          "code": "272.4",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 1809,
-          "end": 1817,
-          "code": "V58.61",
+          "begin": 2694,
+          "end": 2697,
+          "code": "715.90",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         }
       ]
+    },
+    {
+      "note_id": 32090,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": []
     }
   ]
 }

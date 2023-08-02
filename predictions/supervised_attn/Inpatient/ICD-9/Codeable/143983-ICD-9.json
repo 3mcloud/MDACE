@@ -14,6 +14,13 @@
           "type": "ECAN-supervised-attention"
         },
         {
+          "begin": 9471,
+          "end": 9475,
+          "code": "008.45",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
           "begin": 11870,
           "end": 11879,
           "code": "008.45",
@@ -70,22 +77,8 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 8152,
-          "end": 8157,
-          "code": "584.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 8167,
-          "end": 8177,
-          "code": "584.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 8221,
-          "end": 8229,
+          "begin": 8146,
+          "end": 8151,
           "code": "584.9",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -112,8 +105,8 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 11834,
-          "end": 11841,
+          "begin": 11848,
+          "end": 11857,
           "code": "599.0",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -140,9 +133,16 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 391,
-          "end": 396,
-          "code": "V44.0",
+          "begin": 457,
+          "end": 459,
+          "code": "V12.55",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1604,
+          "end": 1607,
+          "code": "V12.55",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -154,8 +154,8 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 6314,
-          "end": 6319,
+          "begin": 2017,
+          "end": 2022,
           "code": "V44.0",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -175,23 +175,23 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 1604,
-          "end": 1607,
-          "code": "V58.61",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 1611,
           "end": 1619,
           "code": "V58.61",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
-        },
+        }
+      ]
+    },
+    {
+      "note_id": 1221260,
+      "category": "Radiology",
+      "description": "CTA CHEST W&W/O C&RECONS, NON-CORONARY",
+      "annotations": [
         {
-          "begin": 7656,
-          "end": 7664,
-          "code": "V58.61",
+          "begin": 343,
+          "end": 345,
+          "code": "V12.55",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         }

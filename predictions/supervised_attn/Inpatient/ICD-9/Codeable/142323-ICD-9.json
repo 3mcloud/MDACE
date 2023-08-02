@@ -22,7 +22,7 @@
         },
         {
           "begin": 346,
-          "end": 377,
+          "end": 352,
           "code": "35.21",
           "code_system": "ICD-9-PCS",
           "type": "ECAN-supervised-attention"
@@ -35,22 +35,15 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 536,
-          "end": 551,
-          "code": "36.11",
-          "code_system": "ICD-9-PCS",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 453,
-          "end": 481,
+          "begin": 436,
+          "end": 442,
           "code": "36.15",
           "code_system": "ICD-9-PCS",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 490,
-          "end": 498,
+          "begin": 467,
+          "end": 474,
           "code": "36.15",
           "code_system": "ICD-9-PCS",
           "type": "ECAN-supervised-attention"
@@ -70,6 +63,13 @@
           "type": "ECAN-supervised-attention"
         },
         {
+          "begin": 1066,
+          "end": 1074,
+          "code": "404.91",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
           "begin": 7716,
           "end": 7728,
           "code": "404.91",
@@ -77,36 +77,8 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 420,
-          "end": 428,
-          "code": "414.01",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 910,
           "end": 913,
-          "code": "414.01",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 7609,
-          "end": 7617,
-          "code": "414.01",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 7625,
-          "end": 7632,
-          "code": "414.01",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 7662,
-          "end": 7670,
           "code": "414.01",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -169,7 +141,7 @@
         },
         {
           "begin": 1224,
-          "end": 1230,
+          "end": 1236,
           "code": "533.90",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -190,16 +162,23 @@
         },
         {
           "begin": 1408,
-          "end": 1422,
+          "end": 1420,
           "code": "V15.82",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
-        },
+        }
+      ]
+    },
+    {
+      "note_id": 1168841,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
         {
-          "begin": 1429,
-          "end": 1432,
-          "code": "V15.82",
-          "code_system": "ICD-9-CM",
+          "begin": 425,
+          "end": 428,
+          "code": "35.21",
+          "code_system": "ICD-9-PCS",
           "type": "ECAN-supervised-attention"
         }
       ]

@@ -21,6 +21,13 @@
           "type": "ECAN-supervised-attention"
         },
         {
+          "begin": 6928,
+          "end": 6937,
+          "code": "227.3",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
           "begin": 1062,
           "end": 1070,
           "code": "250.00",

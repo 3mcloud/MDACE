@@ -21,6 +21,13 @@
           "type": "ECAN-supervised-attention"
         },
         {
+          "begin": 361,
+          "end": 369,
+          "code": "36.15",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-supervised-attention"
+        },
+        {
           "begin": 599,
           "end": 611,
           "code": "401.9",
@@ -28,9 +35,9 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 3805,
-          "end": 3828,
-          "code": "414.01",
+          "begin": 3881,
+          "end": 3893,
+          "code": "401.9",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         }
@@ -40,7 +47,43 @@
       "note_id": 688805,
       "category": "Physician",
       "description": "ICU Note - CVI",
-      "annotations": []
+      "annotations": [
+        {
+          "begin": 913,
+          "end": 917,
+          "code": "36.15",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 905,
+          "end": 909,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 688827,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 906,
+          "end": 910,
+          "code": "36.15",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 898,
+          "end": 902,
+          "code": "414.01",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
     }
   ]
 }
