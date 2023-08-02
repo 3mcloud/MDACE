@@ -21,22 +21,8 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 2040,
-          "end": 2049,
-          "code": "493.90",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 2132,
           "end": 2138,
-          "code": "493.90",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 7214,
-          "end": 7223,
           "code": "493.90",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"

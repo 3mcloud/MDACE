@@ -2,6 +2,111 @@
   "hadm_id": 168521,
   "notes": [
     {
+      "note_id": 14279,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 8145,
+          "end": 8153,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 8320,
+          "end": 8329,
+          "code": "428.32",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 8088,
+          "end": 8094,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 10899,
+          "end": 10910,
+          "code": "576.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 727745,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 6461,
+          "end": 6470,
+          "code": "428.32",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7213,
+          "end": 7219,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 727678,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 5196,
+          "end": 5205,
+          "code": "428.32",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 727759,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 6461,
+          "end": 6470,
+          "code": "428.32",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7213,
+          "end": 7219,
+          "code": "493.90",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 727688,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 5709,
+          "end": 5718,
+          "code": "428.32",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
       "note_id": 727523,
       "category": "Physician",
       "description": "Physician Resident Progress Note",

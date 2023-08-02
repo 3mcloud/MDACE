@@ -7,22 +7,15 @@
       "description": "Report",
       "annotations": [
         {
-          "begin": 1024,
-          "end": 1032,
-          "code": "265.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 986,
-          "end": 999,
+          "end": 993,
           "code": "303.93",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
           "begin": 7475,
-          "end": 7488,
+          "end": 7482,
           "code": "303.93",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -42,6 +35,20 @@
           "type": "ECAN-supervised-attention"
         },
         {
+          "begin": 1513,
+          "end": 1523,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7640,
+          "end": 7646,
+          "code": "305.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
           "begin": 1188,
           "end": 1200,
           "code": "401.9",
@@ -56,22 +63,8 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 322,
-          "end": 328,
-          "code": "414.01",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 832,
-          "end": 836,
-          "code": "414.01",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 937,
-          "end": 952,
+          "begin": 306,
+          "end": 314,
           "code": "414.01",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"

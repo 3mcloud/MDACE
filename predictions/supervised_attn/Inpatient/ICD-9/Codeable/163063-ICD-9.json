@@ -1,4 +1,239 @@
 {
   "hadm_id": 163063,
-  "notes": []
+  "notes": [
+    {
+      "note_id": 36834,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 515,
+          "end": 518,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1555,
+          "end": 1563,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 14832,
+          "end": 14834,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 21936,
+          "end": 21952,
+          "code": "287.5",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 14389,
+          "end": 14396,
+          "code": "289.59",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4184,
+          "end": 4198,
+          "code": "348.30",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 17514,
+          "end": 17525,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 19272,
+          "end": 19283,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 19297,
+          "end": 19307,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1939,
+          "end": 1945,
+          "code": "692.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 527977,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 607,
+          "end": 615,
+          "code": "276.2",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 767,
+          "end": 775,
+          "code": "276.2",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7433,
+          "end": 7441,
+          "code": "276.2",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6336,
+          "end": 6347,
+          "code": "276.52",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5865,
+          "end": 5876,
+          "code": "458.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 529965,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 7136,
+          "end": 7148,
+          "code": "284.19",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7136,
+          "end": 7148,
+          "code": "287.5",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1126492,
+      "category": "Radiology",
+      "description": "CT ABDOMEN W/CONTRAST",
+      "annotations": [
+        {
+          "begin": 6642,
+          "end": 6649,
+          "code": "289.59",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1127371,
+      "category": "Radiology",
+      "description": "CT CHEST W/CONTRAST",
+      "annotations": [
+        {
+          "begin": 7891,
+          "end": 7898,
+          "code": "289.59",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 529470,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 7013,
+          "end": 7020,
+          "code": "289.59",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1118442,
+      "category": "Radiology",
+      "description": "CT CHEST W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 634,
+          "end": 637,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1118443,
+      "category": "Radiology",
+      "description": "CT CHEST W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 734,
+          "end": 737,
+          "code": "584.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 527973,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": []
+    },
+    {
+      "note_id": 528191,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": []
+    },
+    {
+      "note_id": 527839,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": []
+    },
+    {
+      "note_id": 527964,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": []
+    }
+  ]
 }

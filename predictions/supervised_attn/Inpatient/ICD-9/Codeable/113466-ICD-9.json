@@ -2,18 +2,129 @@
   "hadm_id": 113466,
   "notes": [
     {
-      "note_id": 691198,
+      "note_id": 36594,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 9779,
+          "end": 9783,
+          "code": "041.11",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 9549,
+          "end": 9557,
+          "code": "250.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 9606,
+          "end": 9619,
+          "code": "372.30",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 11970,
+          "end": 11983,
+          "code": "372.30",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 11946,
+          "end": 11951,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 11935,
+          "end": 11945,
+          "code": "787.3",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7803,
+          "end": 7809,
+          "code": "99.04",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 9303,
+          "end": 9313,
+          "code": "998.32",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 690868,
       "category": "Physician",
       "description": "Intensivist Note",
       "annotations": [
         {
-          "begin": 3843,
-          "end": 3849,
+          "begin": 2871,
+          "end": 2874,
+          "code": "807.04",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 690973,
+      "category": "Physician",
+      "description": "Physician Surgical Admission Note",
+      "annotations": [
+        {
+          "begin": 3224,
+          "end": 3230,
           "code": "E881.0",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         }
       ]
+    },
+    {
+      "note_id": 690909,
+      "category": "Physician",
+      "description": "Physician Surgical Admission Note",
+      "annotations": [
+        {
+          "begin": 3224,
+          "end": 3230,
+          "code": "E881.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 690896,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 4918,
+          "end": 4924,
+          "code": "E881.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 691198,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": []
     }
   ]
 }

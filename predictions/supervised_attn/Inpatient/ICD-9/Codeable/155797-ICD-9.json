@@ -14,15 +14,15 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 6494,
-          "end": 6501,
+          "begin": 5789,
+          "end": 5796,
           "code": "250.00",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 8360,
-          "end": 8367,
+          "begin": 6412,
+          "end": 6421,
           "code": "250.00",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -49,22 +49,36 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 1263,
+          "begin": 1269,
           "end": 1274,
           "code": "327.23",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 8422,
+          "begin": 1288,
+          "end": 1292,
+          "code": "327.23",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 8428,
           "end": 8433,
           "code": "327.23",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
+          "begin": 8447,
+          "end": 8451,
+          "code": "327.23",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
           "begin": 1293,
-          "end": 1310,
+          "end": 1305,
           "code": "338.29",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -91,21 +105,21 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 8273,
-          "end": 8296,
+          "begin": 2490,
+          "end": 2498,
           "code": "414.01",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 1377,
+          "begin": 1383,
           "end": 1389,
           "code": "V45.4",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 8531,
+          "begin": 8537,
           "end": 8543,
           "code": "V45.4",
           "code_system": "ICD-9-CM",

@@ -21,7 +21,7 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 3153,
+          "begin": 3159,
           "end": 3176,
           "code": "285.1",
           "code_system": "ICD-9-CM",
@@ -42,23 +42,16 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 276,
-          "end": 281,
-          "code": "E816.0",
+          "begin": 345,
+          "end": 350,
+          "code": "821.01",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 290,
-          "end": 295,
-          "code": "E816.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 409,
-          "end": 428,
-          "code": "E816.0",
+          "begin": 3138,
+          "end": 3143,
+          "code": "821.01",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         }
@@ -70,7 +63,7 @@
       "description": "CHEST (PORTABLE AP)",
       "annotations": [
         {
-          "begin": 478,
+          "begin": 488,
           "end": 496,
           "code": "276.2",
           "code_system": "ICD-9-CM",
@@ -86,25 +79,38 @@
       ]
     },
     {
-      "note_id": 1132652,
+      "note_id": 1132636,
       "category": "Radiology",
-      "description": "L HIP UNILAT MIN 2 VIEWS LEFT",
+      "description": "CT CHEST W/CONTRAST",
       "annotations": [
         {
-          "begin": 348,
-          "end": 353,
-          "code": "821.01",
+          "begin": 561,
+          "end": 571,
+          "code": "507.0",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 629,
-          "end": 634,
-          "code": "821.01",
+          "begin": 1490,
+          "end": 1500,
+          "code": "507.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 3134,
+          "end": 3144,
+          "code": "507.0",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         }
       ]
+    },
+    {
+      "note_id": 1132652,
+      "category": "Radiology",
+      "description": "L HIP UNILAT MIN 2 VIEWS LEFT",
+      "annotations": []
     }
   ]
 }

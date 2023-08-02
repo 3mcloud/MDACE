@@ -42,15 +42,15 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 9696,
-          "end": 9706,
-          "code": "401.9",
+          "begin": 8653,
+          "end": 8660,
+          "code": "456.20",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 10742,
-          "end": 10750,
+          "begin": 10781,
+          "end": 10788,
           "code": "456.20",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -70,7 +70,14 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 6522,
+          "begin": 10742,
+          "end": 10750,
+          "code": "532.20",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6535,
           "end": 6546,
           "code": "537.89",
           "code_system": "ICD-9-CM",
@@ -78,14 +85,14 @@
         },
         {
           "begin": 6515,
-          "end": 6534,
+          "end": 6521,
           "code": "572.3",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 8282,
-          "end": 8299,
+          "begin": 7145,
+          "end": 7149,
           "code": "99.04",
           "code_system": "ICD-9-PCS",
           "type": "ECAN-supervised-attention"
@@ -126,6 +133,13 @@
           "type": "ECAN-supervised-attention"
         },
         {
+          "begin": 2023,
+          "end": 2028,
+          "code": "V10.52",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
           "begin": 2080,
           "end": 2091,
           "code": "V10.52",
@@ -140,13 +154,6 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 2338,
-          "end": 2349,
-          "code": "V10.52",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 2164,
           "end": 2170,
           "code": "V12.51",
@@ -155,8 +162,22 @@
         },
         {
           "begin": 2164,
-          "end": 2166,
+          "end": 2170,
           "code": "V12.55",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1187078,
+      "category": "Radiology",
+      "description": "TUBE CHOLANGIOGRAM",
+      "annotations": [
+        {
+          "begin": 888,
+          "end": 899,
+          "code": "V10.52",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         }

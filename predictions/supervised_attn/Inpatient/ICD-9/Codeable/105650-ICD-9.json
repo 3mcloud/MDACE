@@ -2,6 +2,27 @@
   "hadm_id": 105650,
   "notes": [
     {
+      "note_id": 445921,
+      "category": "Physician",
+      "description": "Intensivist Note",
+      "annotations": [
+        {
+          "begin": 4446,
+          "end": 4452,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4064,
+          "end": 4068,
+          "code": "305.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
       "note_id": 445953,
       "category": "Physician",
       "description": "Intensivist Note",
@@ -14,15 +35,8 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 3993,
-          "end": 4000,
-          "code": "305.00",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4216,
-          "end": 4225,
+          "begin": 4064,
+          "end": 4068,
           "code": "305.00",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -35,20 +49,6 @@
       "description": "Report",
       "annotations": [
         {
-          "begin": 873,
-          "end": 883,
-          "code": "305.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 958,
-          "end": 965,
-          "code": "305.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 6343,
           "end": 6347,
           "code": "305.1",
@@ -56,15 +56,22 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 7301,
-          "end": 7317,
-          "code": "854.06",
+          "begin": 7343,
+          "end": 7351,
+          "code": "852.26",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
           "begin": 252,
           "end": 256,
+          "code": "E884.2",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5734,
+          "end": 5738,
           "code": "E884.2",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"

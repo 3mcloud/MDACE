@@ -21,22 +21,8 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 2565,
-          "end": 2577,
-          "code": "401.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 2737,
           "end": 2743,
-          "code": "401.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 7765,
-          "end": 7768,
           "code": "401.9",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -56,9 +42,9 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 5989,
-          "end": 5992,
-          "code": "414.9",
+          "begin": 8088,
+          "end": 8096,
+          "code": "410.71",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -70,29 +56,8 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 8088,
-          "end": 8096,
-          "code": "414.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 14875,
-          "end": 14881,
-          "code": "414.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 15275,
-          "end": 15280,
-          "code": "424.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 2795,
-          "end": 2814,
+          "end": 2801,
           "code": "427.31",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -105,22 +70,8 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 2715,
-          "end": 2728,
-          "code": "428.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 7759,
-          "end": 7763,
-          "code": "428.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 8770,
-          "end": 8782,
+          "end": 8779,
           "code": "428.0",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -129,13 +80,6 @@
           "begin": 14832,
           "end": 14847,
           "code": "428.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 2715,
-          "end": 2724,
-          "code": "428.33",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -150,27 +94,6 @@
           "begin": 14832,
           "end": 14841,
           "code": "428.33",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 6549,
-          "end": 6563,
-          "code": "429.3",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 6960,
-          "end": 6966,
-          "code": "429.3",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 7676,
-          "end": 7687,
-          "code": "429.3",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -210,65 +133,9 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 15753,
-          "end": 15762,
-          "code": "486",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 5362,
-          "end": 5378,
-          "code": "511.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 5566,
-          "end": 5582,
-          "code": "511.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 5333,
           "end": 5344,
           "code": "518.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 14842,
-          "end": 14847,
-          "code": "518.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 14856,
-          "end": 14865,
-          "code": "518.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 704,
-          "end": 712,
-          "code": "578.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 1470,
-          "end": 1476,
-          "code": "578.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 7790,
-          "end": 7796,
-          "code": "578.1",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -295,21 +162,14 @@
         },
         {
           "begin": 9929,
-          "end": 9931,
+          "end": 9940,
           "code": "578.9",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 10442,
-          "end": 10444,
-          "code": "578.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 10527,
-          "end": 10529,
+          "begin": 14925,
+          "end": 14931,
           "code": "578.9",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -343,57 +203,29 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 331,
+          "begin": 343,
           "end": 353,
           "code": "725",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 2831,
+          "begin": 2843,
           "end": 2853,
           "code": "725",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 11683,
+          "begin": 11695,
           "end": 11705,
           "code": "725",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 2854,
-          "end": 2868,
-          "code": "780.4",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 8899,
-          "end": 8907,
-          "code": "780.4",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 771,
           "end": 776,
-          "code": "780.60",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 9257,
-          "end": 9266,
-          "code": "780.60",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 9331,
-          "end": 9340,
           "code": "780.60",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -406,93 +238,9 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 10804,
-          "end": 10807,
-          "code": "780.60",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 11343,
-          "end": 11348,
-          "code": "780.60",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 14856,
-          "end": 14865,
-          "code": "780.60",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 2371,
-          "end": 2380,
-          "code": "786.02",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 9979,
-          "end": 9987,
-          "code": "786.02",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 10053,
-          "end": 10068,
-          "code": "786.02",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 885,
-          "end": 896,
-          "code": "786.05",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 267,
-          "end": 282,
+          "begin": 1095,
+          "end": 1099,
           "code": "786.50",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 8088,
-          "end": 8096,
-          "code": "786.50",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 8470,
-          "end": 8480,
-          "code": "786.50",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 704,
-          "end": 712,
-          "code": "787.03",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 2565,
-          "end": 2577,
-          "code": "787.03",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 2702,
-          "end": 2714,
-          "code": "787.03",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -511,22 +259,8 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 651,
-          "end": 659,
-          "code": "787.91",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 11269,
           "end": 11277,
-          "code": "787.91",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 11309,
-          "end": 11317,
           "code": "787.91",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -539,23 +273,9 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 1470,
-          "end": 1476,
-          "code": "792.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 7774,
-          "end": 7780,
-          "code": "792.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 7790,
-          "end": 7796,
-          "code": "792.1",
+          "begin": 14925,
+          "end": 14931,
+          "code": "787.91",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -567,22 +287,211 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 9988,
-          "end": 9994,
-          "code": "792.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 14925,
           "end": 14931,
           "code": "792.1",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627175,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 3707,
+          "end": 3711,
+          "code": "041.12",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 7473,
-          "end": 7482,
+          "begin": 3747,
+          "end": 3751,
+          "code": "274.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 3657,
+          "end": 3663,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 12958,
+          "end": 12964,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 12499,
+          "end": 12505,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 3724,
+          "end": 3730,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 11732,
+          "end": 11736,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 12841,
+          "end": 12845,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 12455,
+          "end": 12464,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 12455,
+          "end": 12464,
+          "code": "428.33",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 9092,
+          "end": 9103,
+          "code": "429.3",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 3657,
+          "end": 3663,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 12958,
+          "end": 12964,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 112,
+          "end": 122,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 3781,
+          "end": 3791,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 556,
+          "end": 561,
+          "code": "780.60",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 894,
+          "end": 898,
+          "code": "786.50",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 315,
+          "end": 323,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 13078,
+          "end": 13086,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627842,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 5817,
+          "end": 5823,
+          "code": "280.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6920,
+          "end": 6926,
+          "code": "410.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4980,
+          "end": 4986,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5392,
+          "end": 5398,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7421,
+          "end": 7431,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6526,
+          "end": 6535,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4870,
+          "end": 4879,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4936,
+          "end": 4945,
           "code": "799.02",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -594,13 +503,6 @@
       "category": "Physician",
       "description": "Physician Resident Progress Note",
       "annotations": [
-        {
-          "begin": 4012,
-          "end": 4015,
-          "code": "401.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
         {
           "begin": 6054,
           "end": 6060,
@@ -616,58 +518,9 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 690,
-          "end": 692,
-          "code": "424.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4411,
-          "end": 4417,
-          "code": "424.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4688,
-          "end": 4694,
-          "code": "424.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 5430,
           "end": 5436,
           "code": "424.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 5975,
-          "end": 5979,
-          "code": "427.31",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4006,
-          "end": 4010,
-          "code": "428.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4674,
-          "end": 4679,
-          "code": "428.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4012,
-          "end": 4015,
-          "code": "585.9",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -686,51 +539,9 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 461,
-          "end": 466,
-          "code": "785.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4767,
-          "end": 4771,
-          "code": "786.50",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4795,
-          "end": 4800,
-          "code": "786.50",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 5068,
-          "end": 5072,
-          "code": "786.50",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 6170,
           "end": 6178,
           "code": "787.91",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4021,
-          "end": 4027,
-          "code": "792.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4037,
-          "end": 4043,
-          "code": "792.1",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -756,13 +567,6 @@
       "description": "Physician Resident Progress Note",
       "annotations": [
         {
-          "begin": 4012,
-          "end": 4015,
-          "code": "401.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 6054,
           "end": 6060,
           "code": "401.9",
@@ -777,58 +581,9 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 690,
-          "end": 692,
-          "code": "424.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4411,
-          "end": 4417,
-          "code": "424.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4688,
-          "end": 4694,
-          "code": "424.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 5430,
           "end": 5436,
           "code": "424.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 5975,
-          "end": 5979,
-          "code": "427.31",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4006,
-          "end": 4010,
-          "code": "428.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4674,
-          "end": 4679,
-          "code": "428.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4012,
-          "end": 4015,
-          "code": "585.9",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -847,58 +602,9 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 6233,
-          "end": 6238,
-          "code": "780.60",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 461,
-          "end": 466,
-          "code": "785.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4767,
-          "end": 4771,
-          "code": "786.50",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4795,
-          "end": 4800,
-          "code": "786.50",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 5068,
-          "end": 5072,
-          "code": "786.50",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 6170,
           "end": 6178,
           "code": "787.91",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4021,
-          "end": 4027,
-          "code": "792.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4037,
-          "end": 4043,
-          "code": "792.1",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -919,17 +625,724 @@
       ]
     },
     {
-      "note_id": 627768,
+      "note_id": 627587,
       "category": "Physician",
       "description": "Physician Resident Progress Note",
       "annotations": [
         {
-          "begin": 4366,
-          "end": 4369,
+          "begin": 6608,
+          "end": 6614,
           "code": "401.9",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
+        {
+          "begin": 5649,
+          "end": 5655,
+          "code": "410.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5984,
+          "end": 5990,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6608,
+          "end": 6614,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6924,
+          "end": 6934,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6724,
+          "end": 6732,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 539,
+          "end": 545,
+          "code": "792.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4850,
+          "end": 4859,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4925,
+          "end": 4934,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627699,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 6054,
+          "end": 6060,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5095,
+          "end": 5101,
+          "code": "410.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5430,
+          "end": 5436,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6054,
+          "end": 6060,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6370,
+          "end": 6380,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6170,
+          "end": 6178,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4296,
+          "end": 4305,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4371,
+          "end": 4380,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627621,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 7184,
+          "end": 7190,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6225,
+          "end": 6231,
+          "code": "410.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5454,
+          "end": 5460,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6560,
+          "end": 6566,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7184,
+          "end": 7190,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7500,
+          "end": 7510,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4934,
+          "end": 4943,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5829,
+          "end": 5838,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7300,
+          "end": 7308,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 539,
+          "end": 545,
+          "code": "792.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5344,
+          "end": 5353,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5410,
+          "end": 5419,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627386,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 5697,
+          "end": 5703,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4296,
+          "end": 4302,
+          "code": "410.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5019,
+          "end": 5025,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5697,
+          "end": 5703,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6003,
+          "end": 6013,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5817,
+          "end": 5825,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627614,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 6793,
+          "end": 6799,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5834,
+          "end": 5840,
+          "code": "410.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5454,
+          "end": 5460,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6169,
+          "end": 6175,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6793,
+          "end": 6799,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7109,
+          "end": 7119,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4934,
+          "end": 4943,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6909,
+          "end": 6917,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 539,
+          "end": 545,
+          "code": "792.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5344,
+          "end": 5353,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5410,
+          "end": 5419,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627241,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 4266,
+          "end": 4272,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 3807,
+          "end": 3813,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 3040,
+          "end": 3044,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4149,
+          "end": 4153,
+          "code": "427.31",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 3763,
+          "end": 3772,
+          "code": "428.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 3763,
+          "end": 3772,
+          "code": "428.33",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4266,
+          "end": 4272,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4386,
+          "end": 4394,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627268,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 4825,
+          "end": 4831,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 3424,
+          "end": 3430,
+          "code": "410.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4147,
+          "end": 4153,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4825,
+          "end": 4831,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5131,
+          "end": 5141,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4945,
+          "end": 4953,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627584,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 6553,
+          "end": 6559,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5594,
+          "end": 5600,
+          "code": "410.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5929,
+          "end": 5935,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6553,
+          "end": 6559,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6869,
+          "end": 6879,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6669,
+          "end": 6677,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 539,
+          "end": 545,
+          "code": "792.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4795,
+          "end": 4804,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4870,
+          "end": 4879,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627615,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 6793,
+          "end": 6799,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5834,
+          "end": 5840,
+          "code": "410.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5454,
+          "end": 5460,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6169,
+          "end": 6175,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6793,
+          "end": 6799,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7109,
+          "end": 7119,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4934,
+          "end": 4943,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6909,
+          "end": 6917,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 539,
+          "end": 545,
+          "code": "792.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5344,
+          "end": 5353,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5410,
+          "end": 5419,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627616,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 6890,
+          "end": 6896,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5931,
+          "end": 5937,
+          "code": "410.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5454,
+          "end": 5460,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6266,
+          "end": 6272,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6890,
+          "end": 6896,
+          "code": "585.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7206,
+          "end": 7216,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4934,
+          "end": 4943,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5829,
+          "end": 5838,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7006,
+          "end": 7014,
+          "code": "787.91",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 539,
+          "end": 545,
+          "code": "792.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5344,
+          "end": 5353,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5410,
+          "end": 5419,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627768,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
         {
           "begin": 6692,
           "end": 6698,
@@ -945,51 +1358,16 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 5653,
-          "end": 5659,
+          "begin": 7060,
+          "end": 7066,
           "code": "424.0",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 4360,
-          "end": 4364,
-          "code": "428.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 5639,
-          "end": 5644,
-          "code": "428.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4366,
-          "end": 4369,
-          "code": "585.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4656,
-          "end": 4660,
-          "code": "786.50",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4684,
-          "end": 4689,
-          "code": "786.50",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 6692,
-          "end": 6698,
-          "code": "786.50",
+          "begin": 7618,
+          "end": 7628,
+          "code": "725",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -1001,86 +1379,9 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 5222,
-          "end": 5231,
-          "code": "787.20",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 6266,
           "end": 6275,
           "code": "787.20",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 6531,
-          "end": 6540,
-          "code": "787.20",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 256,
-          "end": 260,
-          "code": "787.91",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 6209,
-          "end": 6213,
-          "code": "787.91",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 6247,
-          "end": 6255,
-          "code": "787.91",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4375,
-          "end": 4381,
-          "code": "792.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4391,
-          "end": 4397,
-          "code": "792.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 5911,
-          "end": 5917,
-          "code": "792.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 5927,
-          "end": 5933,
-          "code": "792.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 5956,
-          "end": 5962,
-          "code": "792.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 5972,
-          "end": 5977,
-          "code": "792.1",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -1099,6 +1400,270 @@
           "type": "ECAN-supervised-attention"
         }
       ]
+    },
+    {
+      "note_id": 627625,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 6818,
+          "end": 6824,
+          "code": "410.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5490,
+          "end": 5496,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7186,
+          "end": 7192,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7744,
+          "end": 7754,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4934,
+          "end": 4943,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6392,
+          "end": 6401,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 539,
+          "end": 545,
+          "code": "792.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5380,
+          "end": 5389,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5446,
+          "end": 5455,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627701,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 6818,
+          "end": 6824,
+          "code": "410.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5490,
+          "end": 5496,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7186,
+          "end": 7192,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7744,
+          "end": 7754,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4934,
+          "end": 4943,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6392,
+          "end": 6401,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 539,
+          "end": 545,
+          "code": "792.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5380,
+          "end": 5389,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5446,
+          "end": 5455,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627841,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 6301,
+          "end": 6307,
+          "code": "410.71",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4973,
+          "end": 4979,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6669,
+          "end": 6675,
+          "code": "424.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7227,
+          "end": 7237,
+          "code": "725",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5875,
+          "end": 5884,
+          "code": "787.20",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4863,
+          "end": 4872,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 4929,
+          "end": 4938,
+          "code": "799.02",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1127150,
+      "category": "Radiology",
+      "description": "CHEST (PORTABLE AP)",
+      "annotations": [
+        {
+          "begin": 1105,
+          "end": 1116,
+          "code": "518.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 25,
+          "end": 43,
+          "code": "71045",
+          "code_system": "CPT",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 99,
+          "end": 103,
+          "code": "71045",
+          "code_system": "CPT",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1127543,
+      "category": "Radiology",
+      "description": "CHEST PORT. LINE PLACEMENT",
+      "annotations": [
+        {
+          "begin": 26,
+          "end": 36,
+          "code": "71045",
+          "code_system": "CPT",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627582,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 539,
+          "end": 545,
+          "code": "792.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 627286,
+      "category": "Physician",
+      "description": "Cardiology Teaching Physician Note",
+      "annotations": []
+    },
+    {
+      "note_id": 627837,
+      "category": "Physician",
+      "description": "Cardiology Teaching Physician Note",
+      "annotations": []
     }
   ]
 }

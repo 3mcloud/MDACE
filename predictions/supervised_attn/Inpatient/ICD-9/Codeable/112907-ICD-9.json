@@ -63,50 +63,22 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 5573,
-          "end": 5584,
-          "code": "562.10",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 10450,
+          "begin": 10467,
           "end": 10475,
           "code": "578.9",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 1304,
-          "end": 1309,
+          "begin": 5796,
+          "end": 5802,
           "code": "99.04",
           "code_system": "ICD-9-PCS",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 5214,
-          "end": 5220,
-          "code": "99.04",
-          "code_system": "ICD-9-PCS",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 10514,
-          "end": 10519,
-          "code": "99.04",
-          "code_system": "ICD-9-PCS",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 10524,
-          "end": 10532,
-          "code": "99.04",
-          "code_system": "ICD-9-PCS",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 10543,
-          "end": 10556,
+          "begin": 10558,
+          "end": 10563,
           "code": "99.04",
           "code_system": "ICD-9-PCS",
           "type": "ECAN-supervised-attention"
@@ -119,17 +91,17 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 10524,
-          "end": 10532,
+          "begin": 10558,
+          "end": 10563,
           "code": "99.05",
           "code_system": "ICD-9-PCS",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 10543,
-          "end": 10556,
-          "code": "99.05",
-          "code_system": "ICD-9-PCS",
+          "begin": 8526,
+          "end": 8533,
+          "code": "V58.66",
+          "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
@@ -143,6 +115,41 @@
           "begin": 9336,
           "end": 9343,
           "code": "V58.66",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1251065,
+      "category": "Radiology",
+      "description": "CHEST (SINGLE VIEW)",
+      "annotations": [
+        {
+          "begin": 359,
+          "end": 364,
+          "code": "560.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 664,
+          "end": 669,
+          "code": "560.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1251080,
+      "category": "Radiology",
+      "description": "PORTABLE ABDOMEN",
+      "annotations": [
+        {
+          "begin": 374,
+          "end": 379,
+          "code": "560.1",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         }

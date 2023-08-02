@@ -42,30 +42,16 @@
           "type": "ECAN-supervised-attention"
         },
         {
+          "begin": 1003,
+          "end": 1020,
+          "code": "39.79",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-supervised-attention"
+        },
+        {
           "begin": 1649,
           "end": 1661,
           "code": "401.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 5934,
-          "end": 5946,
-          "code": "401.9",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 8579,
-          "end": 8593,
-          "code": "442.84",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 1064,
-          "end": 1072,
-          "code": "444.21",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
@@ -84,29 +70,15 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 4447,
-          "end": 4462,
-          "code": "51.01",
-          "code_system": "ICD-9-PCS",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 4755,
-          "end": 4761,
+          "begin": 5466,
+          "end": 5473,
           "code": "578.1",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 5052,
-          "end": 5058,
-          "code": "578.1",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 3231,
-          "end": 3235,
+          "begin": 4920,
+          "end": 4928,
           "code": "790.7",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -119,29 +91,8 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 7123,
-          "end": 7127,
-          "code": "99.04",
-          "code_system": "ICD-9-PCS",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 8680,
-          "end": 8685,
-          "code": "99.04",
-          "code_system": "ICD-9-PCS",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 8690,
-          "end": 8698,
-          "code": "99.04",
-          "code_system": "ICD-9-PCS",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 8709,
-          "end": 8722,
+          "begin": 8724,
+          "end": 8729,
           "code": "99.04",
           "code_system": "ICD-9-PCS",
           "type": "ECAN-supervised-attention"
@@ -154,15 +105,8 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 8690,
-          "end": 8698,
-          "code": "99.07",
-          "code_system": "ICD-9-PCS",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 8709,
-          "end": 8722,
+          "begin": 8724,
+          "end": 8729,
           "code": "99.07",
           "code_system": "ICD-9-PCS",
           "type": "ECAN-supervised-attention"
@@ -175,6 +119,13 @@
           "type": "ECAN-supervised-attention"
         },
         {
+          "begin": 7340,
+          "end": 7348,
+          "code": "997.2",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
           "begin": 1623,
           "end": 1632,
           "code": "V10.21",
@@ -182,6 +133,81 @@
           "type": "ECAN-supervised-attention"
         }
       ]
+    },
+    {
+      "note_id": 1188351,
+      "category": "Radiology",
+      "description": "REM/REPLACE EXT TRANSNEPHRIC URETERAL STENT",
+      "annotations": [
+        {
+          "begin": 8130,
+          "end": 8142,
+          "code": "401.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 8093,
+          "end": 8104,
+          "code": "576.8",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1187104,
+      "category": "Radiology",
+      "description": "INTRO PERC TRNASHEPATIC STENT",
+      "annotations": [
+        {
+          "begin": 3570,
+          "end": 3574,
+          "code": "51.98",
+          "code_system": "ICD-9-PCS",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1188743,
+      "category": "Radiology",
+      "description": "CTA CHEST W&W/O C&RECONS, NON-CORONARY",
+      "annotations": [
+        {
+          "begin": 1779,
+          "end": 1785,
+          "code": "578.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1188269,
+      "category": "Radiology",
+      "description": "CTA ABD W&W/O C & RECONS",
+      "annotations": [
+        {
+          "begin": 465,
+          "end": 471,
+          "code": "578.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1187310,
+      "category": "Radiology",
+      "description": "INTRO PERC TRNASHEPATIC STENT",
+      "annotations": []
+    },
+    {
+      "note_id": 1188081,
+      "category": "Radiology",
+      "description": "CHANGE PERC BILIARY DRAINAGE CATHETER",
+      "annotations": []
     },
     {
       "note_id": 1188815,

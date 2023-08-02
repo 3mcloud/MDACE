@@ -2,17 +2,24 @@
   "hadm_id": 171431,
   "notes": [
     {
-      "note_id": 595338,
+      "note_id": 595410,
       "category": "Physician",
       "description": "Physician Attending Progress Note",
       "annotations": [
         {
-          "begin": 232,
-          "end": 246,
+          "begin": 6296,
+          "end": 6310,
           "code": "244.9",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
-        },
+        }
+      ]
+    },
+    {
+      "note_id": 595338,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
         {
           "begin": 6206,
           "end": 6220,
@@ -23,18 +30,198 @@
       ]
     },
     {
-      "note_id": 595518,
+      "note_id": 595514,
       "category": "Physician",
-      "description": "Physician Attending Progress Note",
+      "description": "Physician Resident Progress Note",
       "annotations": [
         {
-          "begin": 4155,
-          "end": 4166,
-          "code": "518.81",
+          "begin": 6448,
+          "end": 6462,
+          "code": "244.9",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         }
       ]
+    },
+    {
+      "note_id": 595401,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": [
+        {
+          "begin": 6243,
+          "end": 6257,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 595179,
+      "category": "Physician",
+      "description": "Physician Resident Progress Note",
+      "annotations": [
+        {
+          "begin": 6454,
+          "end": 6468,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 594772,
+      "category": "Physician",
+      "description": "Physician Resident Admission Note",
+      "annotations": [
+        {
+          "begin": 2922,
+          "end": 2932,
+          "code": "268.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 2827,
+          "end": 2834,
+          "code": "278.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 2840,
+          "end": 2846,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 2892,
+          "end": 2896,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 594797,
+      "category": "Physician",
+      "description": "Physician Attending Admission Note - MICU",
+      "annotations": [
+        {
+          "begin": 1588,
+          "end": 1598,
+          "code": "268.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1493,
+          "end": 1500,
+          "code": "278.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1506,
+          "end": 1512,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1558,
+          "end": 1562,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 23168,
+      "category": "Discharge summary",
+      "description": "Report",
+      "annotations": [
+        {
+          "begin": 2230,
+          "end": 2240,
+          "code": "268.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 2147,
+          "end": 2154,
+          "code": "278.00",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 2157,
+          "end": 2163,
+          "code": "285.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 2094,
+          "end": 2104,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 7879,
+          "end": 7889,
+          "code": "311",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 10568,
+          "end": 10573,
+          "code": "480.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 10584,
+          "end": 10590,
+          "code": "493.92",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 2203,
+          "end": 2207,
+          "code": "530.81",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 2107,
+          "end": 2119,
+          "code": "729.1",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 595170,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": []
+    },
+    {
+      "note_id": 595518,
+      "category": "Physician",
+      "description": "Physician Attending Progress Note",
+      "annotations": []
     }
   ]
 }

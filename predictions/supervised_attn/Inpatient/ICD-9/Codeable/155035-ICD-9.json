@@ -8,7 +8,7 @@
       "annotations": [
         {
           "begin": 436,
-          "end": 455,
+          "end": 446,
           "code": "294.10",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -42,13 +42,6 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 3396,
-          "end": 3406,
-          "code": "331.0",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 1203,
           "end": 1207,
           "code": "530.81",
@@ -63,15 +56,15 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 901,
-          "end": 922,
-          "code": "934.8",
+          "begin": 457,
+          "end": 466,
+          "code": "V10.21",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 457,
-          "end": 466,
+          "begin": 1180,
+          "end": 1186,
           "code": "V10.21",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"

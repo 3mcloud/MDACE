@@ -7,8 +7,15 @@
       "description": "Report",
       "annotations": [
         {
+          "begin": 1152,
+          "end": 1162,
+          "code": "197.0",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
           "begin": 1174,
-          "end": 1184,
+          "end": 1178,
           "code": "197.0",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -28,20 +35,6 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 1152,
-          "end": 1162,
-          "code": "198.3",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 1152,
-          "end": 1162,
-          "code": "198.5",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
           "begin": 1180,
           "end": 1184,
           "code": "198.5",
@@ -51,6 +44,13 @@
         {
           "begin": 1249,
           "end": 1263,
+          "code": "244.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 5124,
+          "end": 5137,
           "code": "244.9",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -84,8 +84,15 @@
           "type": "ECAN-supervised-attention"
         },
         {
-          "begin": 873,
+          "begin": 862,
           "end": 883,
+          "code": "432.9",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 6775,
+          "end": 6786,
           "code": "432.9",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
@@ -100,6 +107,55 @@
         {
           "begin": 1138,
           "end": 1146,
+          "code": "V10.82",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1255273,
+      "category": "Radiology",
+      "description": "CT HEAD W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 1224,
+          "end": 1234,
+          "code": "198.3",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 232,
+          "end": 240,
+          "code": "V10.82",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 1235,
+          "end": 1243,
+          "code": "V10.82",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        }
+      ]
+    },
+    {
+      "note_id": 1255319,
+      "category": "Radiology",
+      "description": "MR HEAD W & W/O CONTRAST",
+      "annotations": [
+        {
+          "begin": 188,
+          "end": 196,
+          "code": "V10.82",
+          "code_system": "ICD-9-CM",
+          "type": "ECAN-supervised-attention"
+        },
+        {
+          "begin": 710,
+          "end": 718,
           "code": "V10.82",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"

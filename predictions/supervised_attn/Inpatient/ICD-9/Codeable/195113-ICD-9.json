@@ -61,20 +61,6 @@
           "code": "414.01",
           "code_system": "ICD-9-CM",
           "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 481,
-          "end": 484,
-          "code": "414.01",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
-        },
-        {
-          "begin": 5224,
-          "end": 5227,
-          "code": "414.01",
-          "code_system": "ICD-9-CM",
-          "type": "ECAN-supervised-attention"
         }
       ]
     }
